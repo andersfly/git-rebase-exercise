@@ -1,7 +1,7 @@
 Trillion a very small stage in a vast cosmic arena.
 
--- Alfa
--- Beta
--- Gamma
+- ALFA
+- BETA
+- GAMMA
 
 (_ZOOM_)
